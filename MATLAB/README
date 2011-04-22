@@ -1,0 +1,6 @@
+TEMAT: "Identyfikacja on-line obiektu sterowania oraz dobor nastaw regulatora PID"
+OPIS: 
+Symulacja w programie MATLAB identyfikacji w czasie rzeczywistym obiektu sterowania.
+Zaklada sie nieznajomosc transmitancji obiektu (BlackBox). Przy pobraniu kazdej pary probek
+wejsc-wyjsc aktualizowany jest dyskretny model obiektu tworzony w pamieci. Na jego podstawie
+dobierane sa nastawy do regulatora PID.
