@@ -19,7 +19,7 @@
   */ 
 
 /* Includes ------------------------------------------------------------------*/
-#include "stm32f10x_exti.h"
+#include "lib/stm32f10x_exti.h"
 #include "stm32f10x_conf.h"
 /** @addtogroup STM32F10x_StdPeriph_Driver
   * @{

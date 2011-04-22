@@ -38,12 +38,12 @@
  </TraceWindow>
  <Watch1>
   <Watches active="1" update="Twice a Second" >
-   <Watchpoint linenumber="76" radix="11" name="PV" expression="PV" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
-   <Watchpoint linenumber="55" radix="10" name="PID" expression="PID" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
-   <Watchpoint linenumber="77" radix="11" name="SP" expression="SP" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
-   <Watchpoint linenumber="79" radix="10" name="wyjscieReg" expression="wyjscieReg" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
-   <Watchpoint linenumber="21" radix="11" name="St" expression="St" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
    <Watchpoint linenumber="0" radix="11" name="E" expression="E" filename="" />
+   <Watchpoint linenumber="21" radix="11" name="St" expression="St" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
+   <Watchpoint linenumber="79" radix="10" name="wyjscieReg" expression="wyjscieReg" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
+   <Watchpoint linenumber="77" radix="11" name="SP" expression="SP" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
+   <Watchpoint linenumber="55" radix="10" name="PID" expression="PID" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
+   <Watchpoint linenumber="76" radix="11" name="PV" expression="PV" filename="d:/dropbox/my dropbox/praca inzynierska/crossworks projects/main.c" />
   </Watches>
  </Watch1>
  <Watch2>
@@ -55,9 +55,6 @@
  <Watch4>
   <Watches active="0" update="Never" />
  </Watch4>
- <Files>
-  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="2" debugPath="D:\DropBox\My Dropbox\Praca inzynierska\CrossWorks Projects\PID.h" y="42" path="D:\DropBox\My Dropbox\Praca inzynierska\CrossWorks Projects\PID.h" left="0" selected="0" name="unnamed" top="39" />
-  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="D:\DropBox\My Dropbox\Praca inzynierska\CrossWorks Projects\main.c" y="65" path="D:\DropBox\My Dropbox\Praca inzynierska\CrossWorks Projects\main.c" left="0" selected="1" name="unnamed" top="48" />
- </Files>
+ <Files/>
  <ARMCrossStudioWindow activeProject="IdentyfikacjaARMA_STM32" autoConnectTarget="Segger J-Link" debugSearchFileMap="" fileDialogInitialDirectory="D:\DropBox\My Dropbox\Praca inzynierska\CrossWorks Projects" fileDialogDefaultFilter="*.c;*.h" autoConnectCapabilities="388991" debugSearchPath="" buildConfiguration="THUMB Flash Debug" />
 </session>
